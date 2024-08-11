@@ -1,0 +1,38 @@
+
+h1{
+    font-size: 60px;
+    filter: brightness(100%);
+}
+.header{
+    display: flex;
+    /* background-color: red; */
+    flex-direction: row;
+    color: white;
+}
+.movie{
+    display: flex;
+    width: 50%;
+}
+.profile{
+    display: flex;
+    justify-content: end;
+    /* background-color: aqua; */
+    width: 50%;
+    gap: 50px;
+    cursor: pointer;
+    color:white
+}
+.body{
+    display: flex;
+    /* background-color: black; */
+    background-image: ();
+    color: white;
+    height: 600px;
+    justify-content: center;
+    align-items: center;
+    background: rgba(0, 0, 0, .65);
+    background-blend-mode: darken;
+}
+.caption{
+
+}
